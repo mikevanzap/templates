@@ -1,0 +1,17 @@
+# Visual Studio / SSDT / Report Designer
+.vs/
+*.user
+*.suo
+*.rptproj.user
+bin/
+obj/
+
+# Windows / OS temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local scratch and log files
+scratch/
+*.tmp
+*.log
