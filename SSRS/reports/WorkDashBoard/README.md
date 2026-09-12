@@ -5,6 +5,7 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016%2B-red.svg)](https://www.microsoft.com/sql-server)
 [![License](https://img.shields.io/badge/License-Dual%20(Free%20Personal%20%7C%20Paid%20Commercial)-orange.svg)](./LICENSE.md)
 [![Template](https://img.shields.io/badge/Template-Ready%20to%20Use-brightgreen.svg)](#customization-guide)
+[![Get on Gumroad](https://img.shields.io/badge/Gumroad-Get%20Template-orange)](https://mikevanzap.gumroad.com/l/perfdashboard)
 
 A ready-to-deploy, modern **SQL Server Reporting Services (SSRS)** and **Power BI Report Server (PBIRS)** dashboard template designed for tracking worker performance, targets, variances, and achievement rates.
 
@@ -330,7 +331,7 @@ This repository is distributed under a **[Dual License](./LICENSE.md)**:
 ### 💼 Commercial & Corporate Use — **PAID LICENSE REQUIRED**
 - Required if you or your organization deploy, host, or run this report in production or internal business operations.
 - Required if you are a consultant or contractor delivering this report to a paying client.
-- **Purchase Commercial License**: Available on Gumroad at `https://gumroad.com/l/ssrs-worker-dashboard` *(or contact `mikevanzap@gmail.com` for corporate invoice / purchase orders)*.
+- **Purchase Commercial License**: Available instantly on Gumroad at **[https://mikevanzap.gumroad.com/l/perfdashboard](https://mikevanzap.gumroad.com/l/perfdashboard)** *(or contact `mikevanzap@gmail.com` for corporate invoices / purchase orders)*.
 - Full terms, permissions, and warranty disclaimers are detailed in **[LICENSE.md](./LICENSE.md)**.
 
 ---

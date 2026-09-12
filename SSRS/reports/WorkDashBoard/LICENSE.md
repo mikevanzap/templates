@@ -29,8 +29,8 @@ Any use of this template for commercial, for-profit, or business purposes requir
 - **SaaS / Commercial Services**: Incorporating the design or reports into any paid commercial service.
 
 ### 🛒 How to Obtain a Commercial License:
-- **Purchase Online**: Available via Gumroad / Lemon Squeezy at:  
-  👉 **`https://gumroad.com/l/ssrs-worker-dashboard`** *(placeholder: update with your link)*
+- **Purchase Online**: Available instantly via Gumroad at:  
+  👉 **[https://mikevanzap.gumroad.com/l/perfdashboard](https://mikevanzap.gumroad.com/l/perfdashboard)**
 - **What a Commercial License Includes**:
   - Full perpetual rights to deploy the report across your organization or client projects.
   - VAT/Tax-compliant invoice and receipt for corporate expense reimbursement.
